@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/npm/:match*", "destination": "/api/proxy" }
-  ]
-}
